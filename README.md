@@ -14,7 +14,7 @@ Blog feature:
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-js-Blog-Boilerplate.git my-project-name
+git clone 
 cd my-project-name
 npm install
 ```
